@@ -17,6 +17,7 @@ this is how the api works:
 get the money of a player:
 $api = $this->getServer()->getPluginManager()->getPlugin("KuhlEconomy);
 $api->getMoney($sender->getName);
+\n
 set the money of a player
 $api = $this->getServer()->getPluginManager()->getPlugin("KuhlEconomy);
 $api->setMoney($sender->getName, 1);

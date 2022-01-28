@@ -18,13 +18,13 @@ In the configs you can edit every message, every command and the descriptions/al
 - this is how the api works:
 - **get the money of a player**:
 - $api = $this->getServer()->getPluginManager()->getPlugin("KuhlEconomy);
-- $api->getMoney($sender->getName); 
+- $api->getMoney($sender->getName()); 
 - **set the money of a player**:
 - $api = $this->getServer()->getPluginManager()->getPlugin("KuhlEconomy);
-- $api->setMoney($sender->getName, 1);
+- $api->setMoney($sender->getName(), 1);
 - **remove money from a player**:
 - $api = $this->getServer()->getPluginManager()->getPlugin("KuhlEconomy);
-- $api->removeMoney($sender->getName, 1);
+- $api->removeMoney($sender->getName(), 1);
 - **add money to a player**:
 - $api = $this->getServer()->getPluginManager()->getPlugin("KuhlEconomy);
-- $api->addMoney($sender->getName, 1);
+- $api->addMoney($sender->getName(), 1);

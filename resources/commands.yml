@@ -1,0 +1,31 @@
+mymoney:
+  command: "mymoney"
+  description: "See your money"
+  usagemessage: null
+  aliases: ["mystatus"]
+
+setmoney:
+  command: "setmoney"
+  description: "Set the money of a Player"
+  usagemessage: "/setmoney <player> <money>"
+  aliases: ["sm"]
+seemoney:
+  command: "seemoney"
+  description: "see the money of a player"
+  usagemessage: "/seemoney <player>"
+  aliases: ["showmoney"]
+addmoney:
+  command: "addmoney"
+  description: "Add money to a Player"
+  usagemessage: "/addmoney <player> <money>"
+  aliases: ["am"]
+removemoney:
+  command: "removemoney"
+  description: "Remove money from a Player"
+  usagemessage: "/removemoney <player> <money>"
+  aliases: ["rm"]
+pay:
+  command: "pay"
+  description: "Pay a player money"
+  usagemessage: "/pay <player> <money>"
+  aliases: []

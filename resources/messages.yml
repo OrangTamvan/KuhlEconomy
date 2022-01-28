@@ -1,0 +1,21 @@
+noplayer: "§cPls run this Command in-game"
+noperm: "§cYou have no Permission to do this"
+playerisoffline: "§cThe Specific Player is offline"
+
+
+
+#mymoney
+mymoneysucces: "§aYou have currently §e{money}§a{symbol} in the hand"
+#setmoney
+setmoneysucces: "§aYou have set the money from §e{player} §aTo §e{money}§a{symbol}"
+#seemoney
+seemoneysucces: "§aThe Player §e{player} §ahas currently §e{money}§a{symbol}"
+#addmoney
+addmoneysucces: "§aYou have added The Player §e{player} {money}§a{symbol}"
+#removemoney
+removemoneysucces: "§aYou have removed The Player §e{player} {money}§a{symbol}"
+#paymoney
+paynomoney: "§cYou dont have enough money to pay"
+paysendermessage: "§aYou have paid §e{player} §asuccesfully §e{money}§a{symbol}"
+payplayermessage: "§aYou have received from §e{sender} {money}§a{symbol}"
+paymoremoney: "§cYou musst pay more money"

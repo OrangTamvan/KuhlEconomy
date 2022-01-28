@@ -1,0 +1,13 @@
+name: KuhlEconomy
+version: 1.0.0
+api: 4.0.0
+author: TheKuhlMc
+main: TheKuhlMc\kuhleconomy\KuhlEconomy
+
+permissions:
+  kuhleconomy.setmoney.use:
+    default: op
+  kuhleconomy.addmoney.use:
+    default: op
+  kuhleconomy.removemoney.use:
+    default: op
